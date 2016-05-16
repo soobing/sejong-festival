@@ -1,0 +1,109 @@
+2016/05/09 03:57:20 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/09 03:57:20  ▸    Error: Unexpected flag --background
+ ▸    Usage: heroku update [CHANNEL]
+ ▸    This command does not take any flags.
+ ▸    
+ ▸    See more information with heroku update --help
+2016/05/09 03:57:20 triggering background update
+2016/05/09 03:57:20 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/09 04:05:51 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/09 04:05:51 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/09 04:05:51 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: run
+2016/05/09 04:07:09 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/09 04:07:09 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/09 04:07:09 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2016/05/09 04:07:11 Error: Expected response to be successful, got 422
+    at Request.handleFailure (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:285:9)
+    at /home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:164:14
+    at IncomingMessage.<anonymous> (/home/ubuntu/.local/share/heroku/cli/lib/node_modules/heroku-client/lib/request.js:393:5)
+    at emitNone (events.js:91:20)
+    at IncomingMessage.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:926:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+2016/05/09 04:07:11 {"id":"invalid_params","message":"Name is already taken"}
+2016/05/09 04:07:24 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/09 04:07:24 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/09 04:07:24 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: rename
+2016/05/10 03:34:03 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:34:03 triggering background update
+2016/05/10 03:34:03 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:34:03 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/10 03:34:03 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:34:03  ▸    Error: Unexpected argument appname
+ ▸    Usage: heroku ps
+ ▸    You gave this command too many arguments. Try the command again without these extra arguments.
+ ▸    
+ ▸    See more information with heroku ps --help
+2016/05/10 03:35:14 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:35:14 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:35:14 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:35:14  ▸    Error: Unexpected argument sejong-vivid.herokuapp.com
+ ▸    Usage: heroku ps
+ ▸    You gave this command too many arguments. Try the command again without these extra arguments.
+ ▸    
+ ▸    See more information with heroku ps --help
+2016/05/10 03:35:24 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:35:24 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:35:24 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:35:24  ▸    Error: Unexpected argument sejong-vivid.herokuapp
+ ▸    Usage: heroku ps
+ ▸    You gave this command too many arguments. Try the command again without these extra arguments.
+ ▸    
+ ▸    See more information with heroku ps --help
+2016/05/10 03:35:37 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:35:37 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:35:37 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:35:37  ▸    Error: Unexpected argument sejong-vivid
+ ▸    Usage: heroku ps
+ ▸    You gave this command too many arguments. Try the command again without these extra arguments.
+ ▸    
+ ▸    See more information with heroku ps --help
+2016/05/10 03:36:38 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:36:38 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:36:38 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:37:07 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:37:07 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:37:07 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:37:43 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:37:43 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:37:43 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:41:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:41:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:41:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 03:58:48 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 03:58:48 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 03:58:48 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 04:05:55 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 04:05:56 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 04:05:56 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 04:15:43 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 04:15:43 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 04:15:43 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 04:16:38 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 04:16:38 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 04:16:38 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 12:27:59 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/10 12:27:59 triggering background update
+2016/05/10 12:27:59 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/10 12:27:59 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/10 12:27:59 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/10 12:28:01 removing old tmp: /home/ubuntu/.local/share/heroku/tmp/updating
+2016/05/11 02:20:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 02:20:35 triggering background update
+2016/05/11 02:20:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/11 02:20:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 02:20:35 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/11 02:56:33 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/11 02:56:33 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/11 02:56:34 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/12 03:54:22 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 03:54:22 triggering background update
+2016/05/12 03:54:22 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2016/05/12 03:54:22 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 03:54:22 heroku-cli/5.1.6-151ac67 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps
+2016/05/12 03:54:24 heroku-cli: Updating to 5.1.7-0de2607...
+2016/05/12 03:54:42 updated to 5.1.7-0de2607
+2016/05/12 04:04:12 heroku-cli/5.1.7-0de2607 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/05/12 04:04:12 heroku-cli/5.1.7-0de2607 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/05/12 04:04:12 heroku-cli/5.1.7-0de2607 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: ps

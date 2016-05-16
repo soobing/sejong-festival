@@ -1,0 +1,15 @@
+[
+  {
+    "command": "create",
+    "plugin": "heroku-apps",
+    "timestamp": 1462766224,
+    "cli_version": "heroku-cli/4.30.0-2dfc0f4 (amd64-linux) go1.6.2",
+    "version": "2.0.3",
+    "os": "linux",
+    "arch": "amd64",
+    "language": "node/5.10.1",
+    "status": 0,
+    "runtime": 2274,
+    "valid": false
+  }
+]
